@@ -1,0 +1,63 @@
+nav ul {
+  position: fixed;
+  top: 0px;
+  width: 95%
+}
+
+img {
+  height: 120px;
+  width: 339px;
+  position: relative;
+  left: 20%;
+}
+
+.sign {
+  float:right;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+
+.link-top{
+  margin: 10px;
+  float:right;
+ }
+
+.main {
+  top: 30%;
+  left: 30%;
+  position: absolute;
+}
+
+.main form input {
+  width: 600px;
+}
+
+.button {
+  position: relative;
+  left: 30%;
+
+}
+
+.links-left {
+  float: left;
+  margin: 8px;
+}
+
+.links-right {
+  float: right;
+  margin: 8px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  height: 40px;
+  width: 99%
+
+}
